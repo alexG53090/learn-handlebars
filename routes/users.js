@@ -5,11 +5,11 @@ var users = ['mike', 'billy', 'adam', 'cj', 'sam', 'roberto', 'isaac']
 
 var usersobj = {
   name: 'mike',
-  name: 'billy',
-  name: 'adam',
-  name: 'cj',
-  name: 'sam',
-  name: 'roberto',
+  name1: 'billy',
+  name2: 'adam',
+  name3: 'cj',
+  name4: 'sam',
+  name5: 'roberto',
 }
 
 /* GET users listing. */
