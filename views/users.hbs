@@ -1,0 +1,14 @@
+<h1>{{name}}</h1>
+<p>Welcome to {{name}}</p>
+
+{{! --users --}}
+
+<!-- iterate over a one dimensional array -->
+  <!-- {{#each users}}
+  <li>{{this}}</li>
+  {{/each}} -->
+
+<!-- iterate over an object -->
+{{#each usersobj}}
+    <li>{{this}}</li>
+{{/each}}
